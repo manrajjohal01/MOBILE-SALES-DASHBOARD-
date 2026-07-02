@@ -4,23 +4,23 @@ This project features an interactive, multi-page data analytics dashboard design
 
 🚀 Key Features & Insights
 1. Main Executive Dashboard
-High-Level KPIs: Formatted visualization tracking 769M in Total Sales, 19K in Total Quantity sold, 4K Total Transactions, and an Average Price of 40.11K per mobile device.
+●High-Level KPIs: Formatted visualization tracking 769M in Total Sales, 19K in Total Quantity sold, 4K Total Transactions, and an Average Price of 40.11K per mobile device.
 
-Geographical Analysis: A dynamic "Sales by Cities" map pinpointing performance across major hubs in India (including Delhi, Mumbai, Lucknow, and Bengaluru).
+●Geographical Analysis: A dynamic "Sales by Cities" map pinpointing performance across major hubs in India (including Delhi, Mumbai, Lucknow, and Bengaluru).
 
-Product Performance: Granular breakdowns tracking Total Sales by Mobile Model (e.g., iPhone SE, OnePlus Nord, Galaxy Note 20) and a comprehensive Brand table.
+●Product Performance: Granular breakdowns tracking Total Sales by Mobile Model (e.g., iPhone SE, OnePlus Nord, Galaxy Note 20) and a comprehensive Brand table.
 
-Customer Preferences: Funnel tracking for customer "Ratings by Rating Status" alongside a transactional breakdown of payment modes (UPI, Debit Card, Credit Card, Cash).
+●Customer Preferences: Funnel tracking for customer "Ratings by Rating Status" alongside a transactional breakdown of payment modes (UPI, Debit Card, Credit Card, Cash).
 
 2. Time Intelligence & Performance Comparison
-YoY Growth Tracking: Comparative bar-and-line metrics analyzing Total Sales vs. Same Period Last Year across Yearly, Quarterly, and Monthly intervals.
+●YoY Growth Tracking: Comparative bar-and-line metrics analyzing Total Sales vs. Same Period Last Year across Yearly, Quarterly, and Monthly intervals.
 
-Detailed Matrix Ledger: A structured daily transaction ledger showing dynamic calculation values for precise historical auditing.
+●Detailed Matrix Ledger: A structured daily transaction ledger showing dynamic calculation values for precise historical auditing.
 
 3. Month-to-Date (MTD) Performance
-Cumulative MTD Progress: Dedicated page mapping cumulative sales progression across the days of the month to evaluate pacing against targets.
+●Cumulative MTD Progress: Dedicated page mapping cumulative sales progression across the days of the month to evaluate pacing against targets.
 
-Target Filtering: Fully interactive slicers for Year, Mobile Model, Payment Method, and specific Month buttons for granular filtering.
+●Target Filtering: Fully interactive slicers for Year, Mobile Model, Payment Method, and specific Month buttons for granular filtering.
 
 📈 Key KPIs
 💰 Total Sales
@@ -31,41 +31,42 @@ Target Filtering: Fully interactive slicers for Year, Mobile Model, Payment Meth
 📊 Same Period Last Year (SPLY) Comparison
 
 🛠️ Tools & Technologies
-Power BI Desktop
-Power Query
-DAX
-Excel/CSV Dataset
+•Power BI Desktop
+•Power Query
+•DAX
+•Excel/CSV Dataset
 
 📷 Dashboard Preview
 Executive Dashboard
 
-(Add Screenshot)
+[Dashboard Preview.jpg.png](Dashboard Preview.jpg.png)
 
 MTD Dashboard
 
-(Add Screenshot)
+[MTD Report.jpg.png](MTD Report.jpg.png)
 
 Sales Insights Dashboard
 
-(Add Screenshot)
+[Performance_analysis.png](Performance_analysis.png)
+
 
 💡 Business Insights
-Identify top-performing brands and mobile models.
-Analyze yearly, quarterly, and monthly sales trends.
-Compare current sales with previous year performance.
-Monitor MTD progress.
-Understand customer payment preferences.
-Analyze city-wise sales distribution.
+•Identify top-performing brands and mobile models.
+•Analyze yearly, quarterly, and monthly sales trends.
+•Compare current sales with previous year performance.
+•Monitor MTD progress.
+•Understand customer payment preferences.
+•Analyze city-wise sales distribution.
 
 📈 Key Business Takeaways
-Top Performer: The iPhone SE leads individual model revenue, bringing in 60M in Sales.
+●Top Performer: The iPhone SE leads individual model revenue, bringing in 60M in Sales.
 
-Payment Dominance: Digital payment methods make up a significant portion of the transaction share, with UPI leading at 26.36%.
+●Payment Dominance: Digital payment methods make up a significant portion of the transaction share, with UPI leading at 26.36%.
 
-Weekly Trends: Sales show strong volume early in the week, peaking noticeably on Monday and Friday before tapering off midweek.
+●Weekly Trends: Sales show strong volume early in the week, peaking noticeably on Monday and Friday before tapering off midweek.
 
 👤 Author
 
 Manraj Singh
 
-💼 LinkedIn: https://www.linkedin.com/in/manraj-singh-14a5a6338
+💼 LinkedIn: https://www.linkedin.com/in/manraj-singh-14a5a6338?utm_source=share_via&utm_content=profile&utm_medium=member_android
