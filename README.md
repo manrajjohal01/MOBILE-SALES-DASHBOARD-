@@ -62,9 +62,9 @@ This project features an interactive, multi-page data analytics dashboard design
 
 ![MTD Dashboard](MTD%20Report.jpg.png)
 
-### Sales Insights Dashboard
+### Same Period Last Year Dashboard
 
-![Sales Insights Dashboard](Performance_analysis.png)
+![Same Period Last Year Dashboard](Same%20Period%20Last%20Year%20report.jpg.png)
 
 ---
 
