@@ -56,7 +56,7 @@ This project features an interactive, multi-page data analytics dashboard design
 
 ### Executive Dashboard
 
-![Executive Dashboard](Dashboard%20Preview.jpg.png)
+![Executive Dashboard](Dashboard_png%20.png)
 
 ### MTD Dashboard
 
